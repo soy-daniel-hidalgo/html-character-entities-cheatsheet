@@ -36,7 +36,7 @@ To keep things organized and avoid duplicated effort, please follow this process
 3. **Create a Feature Branch:**
 
 ```bash
-   git checkout -b feature/your-awesome-feature
+git checkout -b feature/your-awesome-feature
 ```
 
 4. **Add and Commit your Changes:**
