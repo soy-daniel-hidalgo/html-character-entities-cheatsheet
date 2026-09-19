@@ -264,7 +264,7 @@ Este proyecto está disponible en los siguientes idiomas:
 - 🐛 Reportar bugs, errores ortográficos o fallos gramaticales.
 - ®️ Añadir nuevos caracteres, glifos y símbolos a la lista.
 - 🌐 Traducir este proyecto a otros idiomas.
-- 💡 Mejorar explicaciones y abordar otros tópicos.
+- 💡 Mejorar explicaciones y abordar otras propuestas.
 - 📝 Mejorar el formato y estilo del código.
 
 Echale un vistazo a las [**pautas de contribución**](../CONTRIBUTING.md) para empezar, y luego anímate en [**abrir un Issue**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) o realizar un [**Pull Request**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/pulls)!
