@@ -51,5 +51,7 @@ git commit -m 'feat: add some amazing feature to cheat sheet'
 git push origin feature/your-awesome-feature
 ```
 
-6. **Open a Pull Request:** Submit a **PR** pointing to the main branch and link the **Issue** you created in Step 1.
+6. **Open a Pull Request:** Submit a **PR** pointing to the `main` branch and link the **Issue** you created in Step 1. ***And that's it!*** It's easier than it looks, right?
 
+> [!IMPORTANT]
+> After your pull request is successfully merged, your branch will be deleted automatically.
