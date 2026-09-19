@@ -39,9 +39,10 @@ To keep things organized and avoid duplicated effort, please follow this process
    git checkout -b feature/your-awesome-feature
 ```
 
-4. **Commit your Changes:**
+4. **Add and Commit your Changes:**
 
 ```bash
+git add *
 git commit -m 'feat: add some amazing feature to cheat sheet'
 ```
 
