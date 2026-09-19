@@ -4,6 +4,16 @@ Thank you so much for taking the time to contribute to the **HTML Character Enti
 
 ---
 
+## 📋 Guidelines
+
+- **Conventional Commits:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification for commit messages (e.g., feat:, fix:, docs:, style:).
+
+- **Formatting:** Keep the code formatting and Markdown style consistent throughout the project.
+
+- **Code of Conduct:** We make an effort to maintain a healthy and constructive community environment by adopting and enforcing our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+---
+
 ## 💡 Ways to Contribute
 
 You can help in many ways, including:
@@ -43,8 +53,3 @@ git push origin feature/your-awesome-feature
 
 6. **Open a Pull Request:** Submit a **PR** pointing to the main branch and link the **Issue** you created in Step 1.
 
-## 📋 Guidelines
-
-- **Conventional Commits:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification for commit messages (e.g., feat:, fix:, docs:, style:).
-
-- **Formatting:** Keep the code formatting and Markdown style consistent throughout the project.
